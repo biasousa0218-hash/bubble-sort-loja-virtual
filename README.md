@@ -10,12 +10,15 @@ Beatriz Sousa Carvalho
 Descrição do Problema:
 Sistema desenvolvido para organizar o preço de 10 produtos de uma loja virtual, facilitando a visualização dos itens do mais barato para o mais caro.
 
+
 Funcionamento do Bubble Sort:
 O Bubble Sort compara elementos adjacentes do array repetidamente, efetuando trocas quando necessário até que todos os dados estejam ordenados em ordem crescente.
+
 
 Como Executar:
 Copie o código do arquivo `main.c` e execute em um compilador de C online (como o OnlineGDB).
 Sistema de Ordenação de Preços em Loja Virtual (Bubble Sort em 
+
 
 Descrição do Problema Cotidiano:
 Em uma loja virtual, os clientes buscam facilidade e agilidade para encontrar produtos que se ajustem ao seu orçamento. Muitas vezes, os dados cadastrados no sistema de inventário ou catálogo entram desorganizados. A ausência de uma ordenação adequada prejudica a experiência do usuário (UX) e dificulta a tomada de decisões rápidas de compra, tornando essencial o uso de algoritmos de ordenação eficientes no backend do sistema.
@@ -58,6 +61,7 @@ Saída esperada no terminal (Após o Bubble Sort em ordem crescente):
   Produto 8: R$ 450,00
   Produto 9: R$ 899,99
   Produto 10: R$ 1.250,00
+
 
 Considerações Finais:
 O desenvolvimento deste projeto permitiu consolidar conceitos fundamentais da ciência da computação, como a manipulação estruturada de arrays, o uso correto de laços de repetição aninhados, estruturas condicionais e a aplicação prática de algoritmos clássicos de ordenação. Além disso, a prática com o Git e o GitHub reforçou a importância do versionamento de código no desenvolvimento de software.
