@@ -1,7 +1,9 @@
 Ordenação de Preços em Loja Virtual (Bubble Sort em C)
 
 Algoritmos e Pensamento Computacional 
+
 Beatriz Sousa Carvalho 
+
 
 
 Descrição do Problema:
